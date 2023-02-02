@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
    s.name                   = 'OrderedCollections'
-   s.version                = '1.0.4'
+   s.version                = '1.1.0'
    s.summary                = 'Data structure implementations for the Swift programming language'
    s.homepage               = 'https://github.com/crunchyroll/swift-collections'
    s.license                = { :type => 'Apache', :file => 'LICENSE.txt' }
